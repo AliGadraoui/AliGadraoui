@@ -5,7 +5,7 @@
 -[Active Directory Home Lab]
 
 <h2> 🧐 Who Am I :</h2>
-- An IT engineer and Software Development student at Centria University of Applied Sciences with strong academic achievement and volunteering experience. Possess strong leadership and communication skills with fluency in English, French and Arabic. Keen to pursue a career in Software engineering and Game Development.
+- An IT engineer and Software Development student at Centria University of Applied Sciences with strong academic achievement and volunteering experiences. Possess strong leadership and communication skills with fluency in English, French and Arabic. Keen to pursue a career in Software engineering and Game Development.
 
 <h2> 💡 Soft Skills :</h2>
 <h3>- 🌍 [Multi-Lingual]:</h3> English (Fluent), Arabic (native), French (native), Spanish (intermediate), Finnish (intermediate).
