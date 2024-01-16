@@ -7,6 +7,9 @@
 <h2> 🧐 Who Am I :</h2>
 - An IT engineer and Software Development student at Centria University of Applied Sciences with strong academic achievement and volunteering experiences. Possess strong leadership and communication skills with fluency in English, French and Arabic. Keen to pursue a career in Software engineering and Game Development.
 
+<h2> 🤓 Working Experience :</h2>
+<h3>-[RDI Student Assistant]:</h3>As an RDI Student Assistant at Centria University of Applied Sciences, I'm part of the Digitalization Team where I apply my third-year IT studies to real-world challenges. My role encompasses project management, leadership, and effective communication, alongside my skills in IT and video editing. I actively contribute to innovative digital initiatives, playing a key role in advancing research and development projects within the university.
+
 <h2> 💡 Soft Skills :</h2>
 <h3>- 🌍 [Multi-Lingual]:</h3> English (Fluent), Arabic (native), French (native), Spanish (intermediate), Finnish (intermediate).
 <h3>-💬 [Communication]:</h3>Communication is a cornerstone of my professional and academic pursuits. In 2018, I honed this essential skill by attending a seminar on Process Communication Model®, which culminated in my certification. This experience equipped me with the tools to navigate diverse communication styles effectively, ensuring that I can connect with individuals from all walks of life and collaborate efficiently. I pride myself on my ability to clearly articulate ideas, actively listen, and foster an environment where every voice is valued.
