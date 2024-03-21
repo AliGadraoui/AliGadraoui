@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 -[Active Directory Home Lab]
--[IOT using LEGO Robot]: https://github.com/AliGadraoui/LEGO_IOT_ROBOT
+<h3>-[IOT using LEGO Robot]: https://github.com/AliGadraoui/LEGO_IOT_ROBOT
 
 <h2> 🧐 Who Am I :</h2>
 - An IT engineer and Software Development student at Centria University of Applied Sciences with strong academic achievement and volunteering experiences. Possess strong leadership and communication skills with fluency in English, French and Arabic. Keen to pursue a career in Software engineering and Game Development.
