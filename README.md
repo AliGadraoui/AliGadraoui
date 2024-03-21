@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
--[Active Directory Home Lab]
+<h3>-[Active Directory Home Lab]
 <h3>-[IOT using LEGO Robot]: https://github.com/AliGadraoui/LEGO_IOT_ROBOT
 
 <h2> 🧐 Who Am I :</h2>
