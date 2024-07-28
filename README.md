@@ -19,7 +19,7 @@
 <h3>-🧢 [Leadership]:</h3>Leadership is not just a role for me; it's a responsibility that I've embraced with dedication and passion. As the captain of my football team for six years, I've led by example, both on and off the field, cultivating a spirit of teamwork, resilience, and sportsmanship. My leadership journey didn't stop at the pitch; for five years, I served as the delegate of my school class, a testament to my peers' trust in me to represent our collective interests and serve as a liaison between students and faculty. These experiences have shaped me into a leader who inspires, motivates, and strives for collective success.
 
 <h2> 🤳 Connect with me:</h2>
-<a href="mailto:ali.gadraoui03@gmail.com"><img align="left" alt="AliGadraoui | Gmail" width="22px" src="[./assets/gmail_logo.png](https://github.com/AliGadraoui/AliGadraoui/blob/main/assets/Gmail%20Logo.jpg?raw=true)" /></a> ali.gadraoui03@gmail.com
+<a href="mailto:ali.gadraoui03@gmail.com"><img align="left" alt="AliGadraoui | Gmail" width="22px" src="https://github.com/AliGadraoui/AliGadraoui/blob/main/assets/Gmail%20Logo.jpg?raw=true" /></a> ali.gadraoui03@gmail.com
 <img align="left" alt="AliGadraoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin.com/in/ali-gadraoui
 
 [linkedin]: linkedin.com/in/ali-gadraoui
