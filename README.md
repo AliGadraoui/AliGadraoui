@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h3>-[Finnish-Learning Game]: 
-  
+  https://urn.fi/URN:NBN:fi:amk-202502203158  
 <h3>-[Web Development]: 
   https://github.com/AliGadraoui/fullstackopen-HY--exercises
 <h3>-[Centria UAS 3D]: 
