@@ -15,7 +15,18 @@
 - An IT engineer and Software Development student at Centria University of Applied Sciences with strong academic achievement and volunteering experiences. Possess strong leadership and communication skills with fluency in English, French and Arabic. Keen to pursue a career in Software engineering and Game Development.
 
 <h2> 🤓 Working Experience :</h2>
-<h3>-[RDI Student Assistant]:</h3>As an RDI Student Assistant at Centria University of Applied Sciences, I'm part of the Digitalization Team where I apply my third-year IT studies to real-world challenges. My role encompasses project management, leadership, and effective communication, alongside my skills in IT and video editing. I actively contribute to innovative digital initiatives, playing a key role in advancing research and development projects within the university.
+<h3>-[AIMLearning Student Intern 8 months]:</h3>As a student intern in the AIMLearning Program sponsored by Centria UAS, I have the unique opportunity to lead the development of an educational video game designed to teach non-Finnish speakers the basics of the Finnish language. Serving as the project founder and manager, I am responsible for coordinating the entire project, from concept to implementation.
+My role involves managing a multidisciplinary team, overseeing the development of the game’s script, character design, and technical integration using Ren'Py. In addition to project management, I actively contribute to the technical aspects, ensuring the game aligns with educational goals by utilizing game-based learning principles to engage learners.
+One of the most exciting aspects of this role is applying my IT skills to create a tool that merges technology and education. The project has also allowed me to develop valuable leadership skills, manage timelines, and collaborate effectively with my team to deliver meaningful outcomes. This hands-on experience has not only deepened my knowledge of software engineering but has also provided me with the chance to lead a project that has a direct impact on enhancing language learning.
+
+<h3>-[RDI Student Assistant 6 months]:</h3>In my role as an RDI Student Assistant in the Digitalization Team at Centria University of Applied Sciences, I am immersed in an environment where technology meets innovation. As a third-year IT student, I bring a blend of academic knowledge and practical skills to the team. My responsibilities include:
+Collaborating closely with the digitalization team to support and enhance various research and development projects, with a focus on leveraging cutting-edge digital solutions.
+Applying my skills in project management and leadership to help coordinate tasks and ensure smooth progress of digital initiatives.
+Engaging in effective communication with team members and stakeholders, facilitating clear and concise information exchange to drive project success.
+Contributing to the creation and editing of digital content, utilizing my video editing expertise to produce high-quality materials that support our RDI objectives.
+Providing IT support and insights, drawing from my academic background to propose innovative solutions and improvements in our digitalization efforts.
+Actively participating in team meetings, offering fresh perspectives and ideas, and staying abreast of the latest trends and advancements in digital technology and IT.
+This position allows me to apply and further develop my competencies in project management, leadership, and IT, while contributing significantly to the cutting-edge research and innovation activities at Centria UAS.
 
 <h2> 💡 Soft Skills :</h2>
 <h3>- 🌍 [Multi-Lingual]:</h3> English (Fluent), Arabic (native), French (native), Spanish (intermediate), Finnish (intermediate).
