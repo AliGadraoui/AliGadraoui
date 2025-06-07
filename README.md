@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ali!  <a href="linkedin.com/in/ali-gadraoui">IT engineer</a> </h1>
+<h1>Hi, I'm Ali!  <a href="https://linkedin.com/in/ali-gadraoui">IT engineer</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -39,9 +39,9 @@ This position allows me to apply and further develop my competencies in project 
 
 <h2> 🤳 Connect with me:</h2>
 
-<img align="left" alt="AliGadraoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />linkedin.com/in/ali-gadraoui
+<img align="left" alt="AliGadraoui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://linkedin.com/in/ali-gadraoui">linkedin.com/in/ali-gadraoui</a>
 
-[linkedin]: linkedin.com/in/ali-gadraoui
+[linkedin]: https://linkedin.com/in/ali-gadraoui
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
