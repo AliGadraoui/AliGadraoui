@@ -16,7 +16,7 @@
   https://github.com/AliGadraoui/LEGO_IOT_ROBOT
 
 <h2> 🧐 Who Am I :</h2>
-- An IT engineer and Software Development student at Centria University of Applied Sciences with strong academic achievement and volunteering experiences. Possess strong leadership and communication skills with fluency in English, French and Arabic. Keen to pursue a career in Software engineering and Game Development.
+- An IT engineer and Software Development graduate from Centria University of Applied Sciences with strong academic achievement and volunteering experiences. Possess strong leadership and communication skills with fluency in English, French and Arabic. Keen to pursue a career in Software engineering and Game Development.
 
 <h2> 🤓 Working Experience :</h2>
 <h3>-[AIMLearning Student Intern 8 months]:</h3>As a student intern in the AIMLearning Program sponsored by Centria UAS, I have the unique opportunity to lead the development of an educational video game designed to teach non-Finnish speakers the basics of the Finnish language. Serving as the project founder and manager, I am responsible for coordinating the entire project, from concept to implementation.
