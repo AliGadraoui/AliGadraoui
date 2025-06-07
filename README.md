@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ali!  <a href="linkedin.com/in/ali-gadraoui">IT engineer and Software Development student</a> </h1>
+<h1>Hi, I'm Ali!  <a href="linkedin.com/in/ali-gadraoui">IT engineer</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
