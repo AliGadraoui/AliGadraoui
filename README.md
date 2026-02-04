@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <h3>-[Roommate Expenses — Shared Bills & Subscription Manager (FastAPI + SQLite)]: 
-  [https://urn.fi/URN:NBN:fi:amk-202502203158](https://github.com/AliGadraoui/roommate-expenses)  
+  https://urn.fi/URN:NBN:fi:amk-202502203158](https://github.com/AliGadraoui/roommate-expenses)  
 <h3>-[Finnish-Learning Game]: 
   https://urn.fi/URN:NBN:fi:amk-202502203158  
 <h3>-[Web Development]: 
